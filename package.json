@@ -1,0 +1,21 @@
+{
+  "name": "projectnode",
+  "version": "1.0.0",
+  "description": "Primer Projeto Node y Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toros20"
+  },
+  "keywords": [
+    "sistemas20"
+  ],
+  "author": "Marvin Toro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
